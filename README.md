@@ -1,2 +1,2 @@
 # EEP-class-11
-This is the source code for our EEM (Electronics, Engineering, and Mechanics) project. 
+This is the source code for Entrepreneurial Endeavour Program (EEP) project. 
