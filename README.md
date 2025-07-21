@@ -1,10 +1,7 @@
-# EEP-class-11
-This is the source code for Entrepreneurial Endeavour Program (EEP) project. 
-
-## Enhanced Solar Panel Efficiency System ☀️
+# Enhanced Solar Panel Efficiency System ☀️ - "Nova Grid"
 Project Overview
 
-This project, developed as part of our Engineering Exploration Project (EEP) for school, addresses the critical issue of solar panel efficiency degradation, particularly due to overheating 🔥 and suboptimal sun exposure. We've designed and prototyped an innovative system that integrates two key features: temperature-based auto-cooling 🌬️ and dual-axis sun-tracking 🎯, significantly boosting the energy output of conventional solar panels.
+This project, developed as part of our Entrepreneurial Endeavour Program (EEP), 2025-26 for school, addresses the critical issue of solar panel efficiency degradation, particularly due to overheating 🔥 and suboptimal sun exposure. We've designed and prototyped an innovative system that integrates two key features: temperature-based auto-cooling 🌬️ and dual-axis sun-tracking 🎯, significantly boosting the energy output of conventional solar panels.
 The Problem
 
 Solar panels are a cornerstone of renewable energy, but their efficiency is often hampered by two primary factors:
@@ -15,7 +12,7 @@ Solar panels are a cornerstone of renewable energy, but their efficiency is ofte
 
 ## Our Solution
 
-Our Enhanced Solar Panel Efficiency System tackles these challenges head-on:
+Nova Grid tackles these challenges head-on:
 1. Temperature-Based Auto-Cooling 🌬️
 
 We've implemented a smart auto-cooling mechanism that actively monitors the panel's temperature. When the temperature exceeds a predefined optimal threshold, the system automatically activates a cooling process (e.g., fans or water circulation) to bring the panel back to an efficient operating temperature. This prevents thermal degradation and maintains peak performance even under harsh conditions. ✅
@@ -54,4 +51,4 @@ Technologies & Components (Conceptual/Prototype)
 
 ## Project Status
 
-This is an academic project developed for our EEP course. The current focus is on demonstrating the feasibility and benefits of the integrated auto-cooling and dual-axis tracking system through a functional prototype. 🏫
+This is an academic project developed for EEP. The current focus is on demonstrating the feasibility and benefits of the integrated auto-cooling and dual-axis tracking system through a functional prototype. 🏫
