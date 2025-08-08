@@ -15,7 +15,7 @@ Solar panels are a cornerstone of renewable energy, but their efficiency is ofte
 Nova Grid tackles these challenges head-on:
 1. Temperature-Based Auto-Cooling 🌬️
 
-We've implemented a smart auto-cooling mechanism that actively monitors the panel's temperature. When the temperature exceeds a predefined optimal threshold, the system automatically activates a cooling process (e.g., fans or water circulation) to bring the panel back to an efficient operating temperature. This prevents thermal degradation and maintains peak performance even under harsh conditions. ✅
+We've implemented a smart auto-cooling mechanism that actively monitors the panel's temperature. When the temperature exceeds a predefined optimal threshold, the system automatically activates a cooling process (mist cooling) to bring the panel back to an efficient operating temperature. This prevents thermal degradation and maintains peak performance even under harsh conditions. ✅
 
 2. Dual-Axis Sun-Tracking 🎯
 
@@ -43,7 +43,7 @@ Technologies & Components (Conceptual/Prototype)
 
     Servo/Stepper Motors: To control the dual-axis movement of the panel. ⚙️
 
-    Cooling Mechanism: (e.g., DC fans, small water pump system). 💧
+    Cooling Mechanism: (small water pump system). 💧
 
     Relays/Motor Drivers: To control cooling and motor components. 🔌
 
