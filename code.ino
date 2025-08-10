@@ -27,7 +27,7 @@ void setup() {
   sensors.begin();
 
   pinMode(RELAY_PIN, OUTPUT);
-  digitalWrite(RELAY_PIN, LOW); // Pump OFF
+  digitalWrite(RELAY_PIN, HIGH); // Pump OFF
 
   horizontalServo.attach(SERVO_PIN);
   horizontalServo.write(servoPosition);
@@ -69,9 +69,9 @@ void loop() {
   Serial.println(servoPosition);
 
   if (tempC > tempThreshold) {
-    digitalWrite(RELAY_PIN, HIGH);  // Pump ON
+    digitalWrite(RELAY_PIN, LOW);  // Pump ON
   } else {
-    digitalWrite(RELAY_PIN, LOW);   // Pump OFF
+    digitalWrite(RELAY_PIN, HIGH);   // Pump OFF
   }
 
   delay(1000); // Wait before next loop
